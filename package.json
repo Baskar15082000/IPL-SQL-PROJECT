@@ -1,0 +1,11 @@
+{
+  "name": "ipl-database",
+  "version": "1.0.0",
+  "description": "## using MySQL - Query",
+  "main": "dbConnection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
